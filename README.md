@@ -15,3 +15,5 @@ This is a movie server built to perform the CRUD options in Golang.
 - math/rand
 ## Non native package - Gorilla Mux 
 `go get github.com/gorilla/mux`
+
+### Test application using POSTMAN
