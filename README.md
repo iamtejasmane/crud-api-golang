@@ -1,4 +1,4 @@
-# Moview CRUD API Server
+# Movies CRUD API Server
 This is a movie server built to perform the CRUD options in Golang.
 
 ## Feature
